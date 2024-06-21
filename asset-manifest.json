@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hflka/11111.git/static/css/main.18e11287.css",
+    "main.js": "/hflka/11111.git/static/js/main.8d2b66fa.js",
+    "static/js/483.f41b762d.chunk.js": "/hflka/11111.git/static/js/483.f41b762d.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/hflka/11111.git/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/hflka/11111.git/service-worker.js",
+    "index.html": "/hflka/11111.git/index.html",
+    "main.18e11287.css.map": "/hflka/11111.git/static/css/main.18e11287.css.map",
+    "main.8d2b66fa.js.map": "/hflka/11111.git/static/js/main.8d2b66fa.js.map",
+    "483.f41b762d.chunk.js.map": "/hflka/11111.git/static/js/483.f41b762d.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/hflka/11111.git/static/js/787.939d5ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.8d2b66fa.js"
+  ]
+}
